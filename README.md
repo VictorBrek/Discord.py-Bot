@@ -41,7 +41,7 @@ Go to the OAuth2 tab in the sidebar and select `bot` in Scopes and `administrato
 
 Then copy the OAuth2 URL which will look something like this:
 
-[https://discord.com/api/oauth2/authorize?client_id=241687418687213&permissions=8&scope=bot](https://discord.com/api/oauth2/authorize?client_id=241687418687213&permissions=8&scope=bot)
+[https://discord.com/api/oauth2/authorize?client_id=00000000000&permissions=8&scope=bot](https://discord.com/api/oauth2/authorize?client_id=00000000000&permissions=8&scope=bot)
 
 And grant it access to your server, and your done!
 
