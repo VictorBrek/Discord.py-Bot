@@ -45,6 +45,8 @@ Then copy the OAuth2 URL which will look something like this:
 
 And grant it access to your server, and your done!
 
+---
+
 Apologies for the poor commenting, I plan on fixing that soon, as this was one of my first major python projects.
 
 ## License
