@@ -3,6 +3,10 @@
 Discord bot written in Python that does basic moderation tasks and has a few fun games. default prefix is `py!`
 
 ## Installation
+clone into a directory
+```bash
+git clone https://github.com/VictorBrek/Discord.py-Bot.git
+```
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the requirements.
 
