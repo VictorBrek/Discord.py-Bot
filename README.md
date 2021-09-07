@@ -1,6 +1,6 @@
 # Discord.py-Bot
 
-Discord bot written in Python that does basic moderation tasks and has a few fun games.
+Discord bot written in Python that does basic moderation tasks and has a few fun games. default prefix is `py!`
 
 ## Installation
 
